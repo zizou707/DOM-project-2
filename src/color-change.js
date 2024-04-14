@@ -8,4 +8,4 @@ const ColorChange = () => {
   }
   
   btn.addEventListener("click", ColorChange);
-ColorChange();
+
